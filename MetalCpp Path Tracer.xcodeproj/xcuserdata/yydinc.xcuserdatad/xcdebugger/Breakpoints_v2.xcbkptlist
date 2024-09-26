@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC1ED1E5-890D-407D-A3C1-FF0189C3E42B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8419A241-DA08-494E-92C0-935C80665D3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MetalCpp Path Tracer/Renderer/Shaders/Fragment.metal"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fragmentMain( v2f in [[stage_in]], device float4* spheres [[buffer(0)]], device const float4* sphereMaterials [[buffer(1)]], device const UniformsData* uniforms [[buffer(2)]], texture2d&lt;float, access::read_write&gt; lastFrame [[texture(0)]], texture2d&lt;float, access::read_write&gt; currentFrame [[texture(1)]])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

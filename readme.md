@@ -6,7 +6,7 @@ Purpose of this project is to build a path tracer using [Metal](https://develope
 
 ## Technical Details
 
-Main goal of this path tracer is to calculate an approximation to [the rendering equation] (https://en.wikipedia.org/wiki/Rendering_equation). This calculation is done via simulating possible paths of the light rays that camera receives and aggregating them. 
+Main goal of this path tracer is to calculate an approximation to [the rendering equation](https://en.wikipedia.org/wiki/Rendering_equation). This calculation is done via simulating possible paths of the light rays that camera receives and aggregating them. 
 The calculation done for each pixel on the screen is independent of one another. Hence, doing this calculations in parallel is possible. This application utilizes Metal API to program the Apple GPUs for this parallel processing task.
 
 ## Features to implement

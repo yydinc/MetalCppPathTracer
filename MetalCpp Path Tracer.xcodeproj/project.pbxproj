@@ -27,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C732586D2CAE13B300C3476F /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		C7D2757E2CA61CED00C6A77F /* MetalCpp Path Tracer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "MetalCpp Path Tracer"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7D275892CA61CFE00C6A77F /* Metal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Metal.framework; path = System/Library/Frameworks/Metal.framework; sourceTree = SDKROOT; };
 		C7D2758B2CA61D0400C6A77F /* MetalKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MetalKit.framework; path = System/Library/Frameworks/MetalKit.framework; sourceTree = SDKROOT; };
@@ -83,6 +84,7 @@
 				C7D275802CA61CED00C6A77F /* MetalCpp Path Tracer */,
 				C7D275882CA61CFE00C6A77F /* Frameworks */,
 				C7D2757F2CA61CED00C6A77F /* Products */,
+				C732586D2CAE13B300C3476F /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};

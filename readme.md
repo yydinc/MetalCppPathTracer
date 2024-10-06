@@ -8,10 +8,12 @@ Purpose of this project is to build a path tracer using [Metal](https://develope
 
 
 <img width="1275" alt="A blue sphere, a metal sphere, and a hollow glass sphere on top of a bigger orange sphere" src="https://github.com/user-attachments/assets/87b044b7-2825-4fbd-ac0a-13ac2fb06e59">
+
 ### A hollow glass sphere, a blue lambertian sphere, and a metal sphere on top of a bigger orange lambertian sphere with a warm lighting
 
 
 <img width="1275" alt="Same scene from a different perspective." src="https://github.com/user-attachments/assets/2b0fbc3b-0e5c-4dfe-92e1-f9d216425acb">
+
 ### Same scene from a different perspective
 
 
